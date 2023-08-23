@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<catlogue xmlns:j="https://www.junaidjamshed.com/" xmlns:b="https://bonanzasatrangi.com/">
+
+<j:fashion category="lawn">
+<j:brandname>j.</j:brandname>
+</j:fashion>
+<b:fashion category="cotton">
+<b:brandname>bonanzasatrangi</b:brandname>
+</b:fashion>
+</catlogue>
